@@ -1,3 +1,7 @@
+![Licença](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/language-Python-blue)
+
+
 # Calculadora em Python 🧮
 
 Este projeto foi desenvolvido como parte do curso de Análise de Dados. Ele inclui:
